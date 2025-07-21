@@ -8,9 +8,6 @@ A fully featured travel booking platform with dynamic content, Google Maps integ
 - JavaScript
 - Google Maps API
 
-## 📸 Screenshots:
-(Add booking page, dashboard, and map previews)
-
 ## ▶️ How to Run:
 1. Open `index.html` in a browser
 2. Navigate through available tour packages
